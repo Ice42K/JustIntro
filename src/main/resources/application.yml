@@ -1,0 +1,13 @@
+# DataSource Config
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: dp
+    password: Ll!2345678
+    url: jdbc:mysql://101.35.132.198:3306/employee196?severTimeZome=GMT%2B8
+    profiles:
+      #    active: release
+      active: dev
+  mvc:
+    pathmatch:
+      matching-strategy: ANT_PATH_MATCHER

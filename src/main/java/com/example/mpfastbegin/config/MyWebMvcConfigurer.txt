@@ -1,0 +1,18 @@
+//package com.example.mpfastbegin.config;
+//
+//import org.springframework.web.servlet.config.annotation.InterceptorRegistry;
+//import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
+//
+//public class MyWebMvcConfigurer implements WebMvcConfigurer {
+////    @Override
+////    public void addInterceptors(InterceptorRegistry registry) {
+////        registry.addInterceptor(someInterceptorHere)
+////                .addPathPatterns("/**")
+////                .excludePathPatterns(
+////                        "/swagger-ui/**",
+////                        "/swagger-resources/**",
+////                        "/v3/api-docs",
+////                        "/druid"
+////                );
+////    }
+//}
